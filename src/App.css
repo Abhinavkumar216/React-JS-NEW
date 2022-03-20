@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* border: 1px solid salmon; */
+}
+
+.App {
+  margin: 0px;
+  font-family: "Lato";
+  background-color: #fafafa;
+}
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px 0px;
+}
